@@ -9,7 +9,7 @@
 <style type="text/css" media="all">@import "css/main.css";</style>
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css"></link>
 <link href="http://fonts.googleapis.com/css?family=Questrial" rel="stylesheet" type="text/css"></link>
-<title>Infinite Mule - Java and Scala Software Consulting</title>
+<title>Infinite Mule - Java and Scala Software Consulting - About</title>
 </head>
 
 
@@ -23,7 +23,7 @@
         <li><a href="/website/">Home</a></li>
         <li><a href="/website/blog">Blog</a></li>
         -->
-        <li><a href="/website/about">About</a></li>        
+        <li><a href="/about">About</a></li>        
         </ul>      
       </div>
 
@@ -33,8 +33,8 @@
 </div>
   
 <div id="tagline">
-  <h1>JAVA AND SCALA SOFTWARE CONSULTING</h1>
-  <h2>Full Stack JEE / Scala Web Applications&nbsp;&nbsp;&ndash;&nbsp;&nbsp;HTML5 Mobile Development&nbsp;&nbsp;&ndash;&nbsp;&nbsp;Finance / Biotech</h2>
+  <h1>ABOUT</h1>
+  <h2>/h2>
 </div>
 
 
@@ -48,7 +48,9 @@
       </div>
     </div>  
 
-    <div id="content">          
+    <div id="content">       
+      <p>My name is Dave Keller and I am a software engineer with 14 years experience.  I have worked in various industries including telecom, biotech, genetic research and finance and have been paid to write software since high school.  My main areas of interest are artificial intelligence, automated trading systems and mobile web applications using HTML5.</p> 
+        </div>      
       <!--
       <div>
 
