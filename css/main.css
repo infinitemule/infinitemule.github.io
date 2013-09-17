@@ -1,4 +1,6 @@
-
+/*
+ * Main CSS
+ */
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,select,input,textarea,p,blockquote,th,td {  
   margin: 0; 
@@ -86,11 +88,11 @@ td {
     
   font-family: 'MuseoSans500';
     
-  src: url('/website/font/MuseoSans_500-webfont.eot');
-  src: url('/website/font/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/website/font/MuseoSans_500-webfont.woff') format('woff'),
-       url('/website/font/MuseoSans_500-webfont.ttf') format('truetype'),
-       url('/website/font/MuseoSans_500-webfont.svg#MuseoSans500') format('svg');
+  src: url('/font/MuseoSans_500-webfont.eot');
+  src: url('/font/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/font/MuseoSans_500-webfont.woff') format('woff'),
+       url('/font/MuseoSans_500-webfont.ttf') format('truetype'),
+       url('/font/MuseoSans_500-webfont.svg#MuseoSans500') format('svg');
          
   font-weight: normal;
   font-style:  normal;
